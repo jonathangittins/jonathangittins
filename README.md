@@ -1,4 +1,4 @@
-### Hi, I'm Jonathan
+## Hi, I'm Jonathan
 
 Senior Product Manager at [Chili Piper](https://www.chilipiper.com), where I own Chat AI and Concierge (our website conversion products). I also work on Chili Piper's [MCP server](https://modelcontextprotocol.io/) for managing Chili Piper through any AI tool or LLM, and our AI-driven asset creation tools.
 
